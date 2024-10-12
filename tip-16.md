@@ -1,5 +1,6 @@
-```
-tip: 16
+
+tip: 1
+
 title: Account Multi-signature
 author: Marcus Zhao(@zhaohong ) <zhaohong229@gmail.com> 
 discussions to: https://github.com/tronprotocol/TIPs/issues/16
